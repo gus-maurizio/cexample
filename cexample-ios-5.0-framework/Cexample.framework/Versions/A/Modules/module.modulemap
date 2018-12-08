@@ -1,0 +1,4 @@
+framework module "Cexample" {
+  header "Cexample.h"
+  export *
+}
